@@ -9,7 +9,7 @@ export default function Footer() {
 
 
   return (
-<div className="w-full   py-[56px] bg-[#2b8eff] flex flex-col relative items-center overflow-hidden">
+<div className="w-full   py-[56px] bg-[#333] flex flex-col relative items-center overflow-hidden">
     <div className=" md:w-[90%] w-[95%] h-full mx-auto grid lg:grid-cols-4 md:grid-cols-2 grid-cols-1 gap-8 border-b border-white  py-[50px]">
     <div className="md:col-span-2 col-span-1 p-4 w-full text-white h-full flex flex-col space-y-10">  
       <div className="w-[20%]">
